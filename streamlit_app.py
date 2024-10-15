@@ -2,7 +2,7 @@
 
 import streamlit as st       # Biblioteca de Dashboard
 import pandas as pd          # Biblioteca de manipulação de dados
-import plotly.express as px  # Biblioteca para criar tabelas e tals
+#import plotly.express as px  # Biblioteca para criar tabelas e tals
 
 # Objetivos do dashboard:
 
