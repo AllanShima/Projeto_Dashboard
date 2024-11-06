@@ -2,6 +2,6 @@ This is a project made for my college class. It involves building a dashboard fo
 The data, in "csv" format, was extracted from the following gov website: "https://www.infosiga.sp.gov.br/mapas/"
 Our main objective was to point out the main areas of risk inside of the city perimeters of "SP-Marília" with more detail.
 
-
+Link of the dashboard: https://dashboardareaderisco-mariliasp.streamlit.app/
 Link of our solution: https://stv0-afk.github.io/TrabRafa/
 (The solution aimed for a local tech company called "DSIN")
