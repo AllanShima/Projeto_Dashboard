@@ -101,7 +101,7 @@ with col2:
         "longitude", 
         None, 
         "Logradouro", 
-        radius=8, 
+        radius=7, 
         zoom=9, 
         mapbox_style='open-street-map', 
         height=800, 
